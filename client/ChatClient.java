@@ -9,7 +9,7 @@ import java.net.UnknownHostException;
 
 public class ChatClient {
 	private static int port =9764;
-	private static String host = "127.7.13.129";
+	private static String host = "localhost";
 	
 	private static String nick;
 	
